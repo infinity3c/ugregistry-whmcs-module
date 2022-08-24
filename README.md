@@ -1,12 +1,13 @@
 # ugregistry-whmcs-module
-Infinity Computers and Communications Company (I3C) WHMCS Registrar Module built on top of the .UGRegistry JSON API
+#### Infinity Computers and Communications Company (I3C) WHMCS Registrar Module built on top of the .UGRegistry JSON API
 
 *************************************************************************
-   .UGRegistry Module Plugin for .ug cctld domain registration, Management, Transfer solution.                                        
-   Copyright (c) Infinity Computers and communications Company Limited. 
-   All Rights Reserved. 
-   Version: 2.0                                                           
-   Build Date: 17 Aug 2022    
+* .UGRegistry Module Plugin for .ug cctld domain registration, Management, Transfer solution.                                        
+* Copyright (c) Infinity Computers and communications Company Limited. 
+* All Rights Reserved.
+   
+* Version: 2.0                                                           
+* Build Date: 17 Aug 2022    
    
 ## Installation
 1) Upload the UgRegistry folder to this path <WHMCS_PATH>/modules/registrars/
@@ -53,5 +54,6 @@ click on services then .UGRegistry to reveal the license.
    Please contact support incase of any issues using this 
    Module.    
    Email: support@registry.co.ug                                         
-   Website: https://i3c.co.ug                                                                   
+   Website: https://i3c.co.ug
+   *************************************************************************
   
