@@ -19,3 +19,6 @@ click on services then .UGRegistry to reveal the license.
 5) Send a request with subject 'SANDBOX CREDIT TOPUP' to support@registry.co.ug with your email account you used to signup above.
 6) Please note, all domains created via sandbox are not submitted to the global .ug servers and will not be usable on the internet.
 7) Lastly, if you are able to register a few domains within your WHMCS, uncheck the checkbox on Test Mode to go to production.
+
+
+Also note that the encrypted files UGRegistry.php and ApiClient.php should not be edited, otherwise the module will not work.
