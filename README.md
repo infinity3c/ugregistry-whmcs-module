@@ -30,7 +30,11 @@ click on services then .UGRegistry to reveal the license.
 6) Please note, all domains created via sandbox are not submitted to the global .ug servers and will not be usable on the internet.
 7) Lastly, if you are able to register a few domains within your WHMCS, uncheck the checkbox on Test Mode to go to production.
 
-                                                                         
+### Note:
+●	The encrypted files UGRegistry.php and ApiClient.php should not be edited at all, otherwise the module will not work. If any changes are made accidentally or intentionally to these encrypted files, please replace them with the original files in the UGRegistry folder to avoid licence invalidity.
+
+●	Each Licence is only permitted per server instance. i.e. You have to generate a new licence for every server that you install the UGRegistry module.
+
   
 ## Licence                                                                       
    This software is furnished under a license and may be used and copied 
