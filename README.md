@@ -10,8 +10,8 @@ This plugin offers automated .ug cctld Domain Registration, Management, Transfer
 * Copyright (c) Infinity Computers and communications Company Limited. 
 * All Rights Reserved.
    
-* Version: 2.0                                                           
-* Build Date: 17 Aug 2022    
+* Version: 3.0                                                           
+* Build Date: 18 Oct 2024    
    
 ## Getting Started
 For a step by step installation process refer to the UGRegistry Installation Guide.pdf in the UGRegistry Folder.
